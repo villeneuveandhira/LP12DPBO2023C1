@@ -9,8 +9,6 @@ Saya Villeneuve Andhira Suwandhi NIM 2108067 mengerjakan Latihan Praktikum 12
 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
 Aamiin.
 
-# Documentation () {}
-
 # MVVM
 Alasan, karena ;
 1. Pisah logika game (model), antarmuka tampilan (view), logika tampilan (viewmodel),
