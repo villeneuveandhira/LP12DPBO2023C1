@@ -11,8 +11,8 @@ Aamiin.
 
 # Documentation () {}
 
-# ALASAN
-MVVM, karena ;
+# MVVM
+Alasan, karena ;
 1. Pisah logika game (model), antarmuka tampilan (view), logika tampilan (viewmodel),
 2. Belajar MVVM untuk mengerjakan TMD DPBO,
 3. Memudahan pengubahan. Pakai MVVM jika ingin mengubah logika permainan bisa terpisah dari tampilan, jika terjadi perubahan atau pembaruan pada logika permainan, bisa langsung dengan mudah memodifikasi Model tanpa mengganggu tampilan gamenya.
