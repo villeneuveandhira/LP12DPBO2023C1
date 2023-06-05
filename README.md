@@ -10,3 +10,8 @@ dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka
 Aamiin.
 
 # Documentation () {}
+
+# ALASAN
+MVVM, karena ;
+1. misahin logika game (model), antarmuka tampilan (view), logika tampilan (viewmodel),
+2. 
